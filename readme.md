@@ -1,1 +1,1 @@
-https://2020.fossasia.org
+2020.fossasia.org
